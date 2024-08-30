@@ -1,0 +1,52 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    padding: 3px;
+    border-spacing: 3px;
+    table-layout: fixed;
+    width: 100px
+}
+
+th,
+td {
+    text-align: left;
+    vertical-align: top;
+}
+
+body {
+    background-image: url(background.jpg);
+    font-family: Verdana;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+div {
+    text-align: center;
+}
+
+.blue {
+    background-color: lightblue;
+}
+
+.red {
+    background-color: rgb(97, 194, 141);
+}
+
+.lav {
+    background-color: lavender;
+}
+
+.pink {
+    background-color: lightpink;
+}
+
+.orange {
+    background-color: burlywood;
+}
